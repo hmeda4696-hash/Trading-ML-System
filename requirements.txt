@@ -1,0 +1,35 @@
+# Core Dependencies
+PyQt5==5.15.9
+PyQt5-sip==12.13.0
+
+# Data Processing
+pandas==2.0.3
+numpy==1.24.3
+
+# Machine Learning
+scikit-learn==1.3.0
+scipy==1.11.2
+
+# Technical Analysis
+ta-lib==0.4.28
+ta==0.10.2
+
+# MetaTrader5
+MetaTrader5==5.0.45
+
+# Data Fetching
+requests==2.31.0
+
+# Visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Utilities
+python-dotenv==1.0.0
+pyyaml==6.0
+
+# Development
+pytest==7.4.0
+black==23.7.0
+flake8==6.0.0
+pylint==2.17.5
